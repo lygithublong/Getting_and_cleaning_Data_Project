@@ -15,13 +15,13 @@ The raw data is from human Activity Recognition database built from the recordin
 
 + Data Set Characteristics:  Multivariate, Time-Series
 + Number of Instances: 10299
-Area: Computer
-Attribute Characteristics: NA
-Number of Attributes: 561
-Date Donated: 2012-12-10
-Associated Tasks: Classification, Clustering
-Missing Values: NA
-Number of Web Hits: 112927
++ Area: Computer
++ Attribute Characteristics: NA
++ Number of Attributes: 561
++ Date Donated: 2012-12-10
++ Associated Tasks: Classification, Clustering
++ Missing Values: NA
++ Number of Web Hits: 112927
 
 More detailed description can be accessed at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
