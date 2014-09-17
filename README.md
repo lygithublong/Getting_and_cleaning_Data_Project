@@ -27,4 +27,4 @@ More detailed description can be accessed at http://archive.ics.uci.edu/ml/datas
 
 ## Description of the script and the tidy data
     
-The script, called run_analysis.R merged the training and test data sets to create one data set (total 10299 cases and 561 variables). From the created data set, the mean and standard deviation of each measurement (total 9 measurement types) were extracted. There are 6 types of activities. The tidy data contains the average of each variable for each activity and each subject.
+The script, called run_analysis.R merged the training and test data sets to create one data set (total 10299 cases and 561 variables). From the created data set, the mean and standard deviation of each measurement (total 9 measurement types) were extracted. There are 6 types of activities. The tidy data contains the average of each variable for each activity and each subject. Here the tidy data set is submitted as a txt file, named tidyData.txt. 
