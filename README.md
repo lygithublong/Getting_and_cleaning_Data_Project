@@ -13,8 +13,8 @@ The purpose of this project is for students to demonstrate their ability in coll
 
 The raw data is from human Activity Recognition database built from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.
 
-Data Set Characteristics:  Multivariate, Time-Series
-Number of Instances: 10299
++ Data Set Characteristics:  Multivariate, Time-Series
++ Number of Instances: 10299
 Area: Computer
 Attribute Characteristics: NA
 Number of Attributes: 561
