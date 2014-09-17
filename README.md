@@ -1,3 +1,3 @@
-Getting_and_cleaning_Data_Project
+# Getting and cleaning Data Project
 =================================
-# Course Project
+## Course Project
