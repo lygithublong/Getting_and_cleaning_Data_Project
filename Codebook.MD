@@ -8,12 +8,12 @@
 - 'test/y_test.txt': Test labels.
 
 ## Descriptive activity names  used to label the activities in the data set 
-1 WALKING
-2 WALKING_UPSTAIRS
-3 WALKING_DOWNSTAIRS
-4 SITTING
-5 STANDING
-6 LAYING
+* 1 WALKING
+* 2 WALKING_UPSTAIRS
+* 3 WALKING_DOWNSTAIRS
+* 4 SITTING
+* 5 STANDING
+* 6 LAYING
 
 ## Descriptive variable names used to label the variables in the dataset
 "activityId"                          
