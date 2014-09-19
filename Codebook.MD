@@ -16,6 +16,7 @@
 * 6 LAYING
 
 ## Descriptive variable names used to label the variables in the dataset
+The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. These time domain signals (prefix 't' to denote time) were captured at a constant rate of 50 Hz.
 * "activityId"                          
 * "subjectId"                          
 * "timeBodyAccMagnitudeMean"            
