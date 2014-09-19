@@ -16,7 +16,12 @@
 * 6 LAYING
 
 ## Descriptive variable names used to label the variables in the dataset
-The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. These time domain signals (prefix 't' to denote time) were captured at a constant rate of 50 Hz.
+The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. 
+Prefix 't' is to denote time in original data sets.
+The body linear acceleration and angular velocity were derived in time to obtain Jerk signals (tBodyAccJerk-XYZ and tBodyGyroJerk-XYZ).
+The magnitude of these three-dimensional signals were calculated using the Euclidean norm (tBodyAccMag, tGravityAccMag, tBodyAccJerkMag, tBodyGyroMag, tBodyGyroJerkMag).
+Fast Fourier Transform (FFT) was applied to some of these signals producing fBodyAcc-XYZ, fBodyAccJerk-XYZ, fBodyGyro-XYZ, fBodyAccMag, fBodyAccJerkMag, fBodyGyroMag, fBodyGyroJerkMag. 
+Prefix 'f' is to indicate frequency domain signals.
 * "activityId"                          
 * "subjectId"                          
 * "timeBodyAccMagnitudeMean"            
@@ -31,10 +36,10 @@ The features selected for this database come from the accelerometer and gyroscop
 * "timeBodyGyroJerkMagnitudeStdDev"    
 * "freqBodyAccMagnitudeMean"            
 * "freqBodyAccMagnitudeStdDev"         
-* "freqBodyBodyAccJerkMagnitudeMean"    
-* "freqBodyBodyAccJerkMagnitudeStdDev" 
-* "freqBodyBodyGyroMagnitudeMean"       
-* "freqBodyBodyGyroMagnitudeStdDev"    
-* "freqBodyBodyGyroJerkMagnitudeMean"   
-* "freqBodyBodyGyroJerkMagnitudeStdDev"
+* "freqBodyAccJerkMagnitudeMean"    
+* "freqBodyAccJerkMagnitudeStdDev" 
+* "freqBodyGyroMagnitudeMean"       
+* "freqBodyGyroMagnitudeStdDev"    
+* "freqBodyGyroJerkMagnitudeMean"   
+* "freqBodyGyroJerkMagnitudeStdDev"
 * "activityType"                       
